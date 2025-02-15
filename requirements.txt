@@ -1,0 +1,10 @@
+streamlit
+whisper
+groq
+google-generativeai
+matplotlib
+numpy
+pandas
+datetime
+tempfile
+io
